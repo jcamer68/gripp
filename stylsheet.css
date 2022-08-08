@@ -1,0 +1,14 @@
+:root {
+
+    --black: rgba(0,0,0,1);
+    --havelock-blue: rgba(74,150,227,1);
+    --biloba-flower: rgba(177,145,238,1);
+    --white: rgba(255,255,255,1);
+
+    --font-size-s: 18px;
+    --font-size-m: 24px;
+    --font-size-l: 28px;
+    --font-size-xl: 40px;
+
+    --font-family-sunflower: "Sunflower";
+}
